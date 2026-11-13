@@ -9,4 +9,4 @@ jobs:
         with:
           python-version: '3.12'
       - name: Executar testes automatizados
-        run: python -c "print('Build e Testes Automatizados: OK')"
+        run: python -c "print('Build e Testes Automatizados OK')"
